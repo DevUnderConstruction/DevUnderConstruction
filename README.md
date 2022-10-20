@@ -10,5 +10,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me:
 - ⚡ Fun fact: ...
+- $$$ Ready for Hiring
 
 ![image](https://user-images.githubusercontent.com/115790027/196208704-8f166e93-cfc6-4c8b-a774-02a49ba5e903.png)
